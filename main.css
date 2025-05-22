@@ -72,3 +72,10 @@ body{
     width: 100%;
 
 }
+
+.mainDiv .divFormulario form{
+
+    display: flex;
+    flex-direction: column;
+
+}
